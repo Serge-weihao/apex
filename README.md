@@ -78,7 +78,7 @@ See the [Docker example folder](https://github.com/NVIDIA/apex/tree/master/examp
 For performance and full functionality, we recommend installing Apex with
 CUDA and C++ extensions via
 ```
-$ git clone https://github.com/NVIDIA/apex
+$ https://github.com/Serge-weihao/apex.git
 $ cd apex
 $ pip install -v --no-cache-dir --global-option="--cpp_ext" --global-option="--cuda_ext" ./
 ```
